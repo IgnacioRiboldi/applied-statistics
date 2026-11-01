@@ -49,7 +49,7 @@ The overall correlation was approximately 0.96, showing a strong positive relati
 
 ### Sources used for this problem
 
-- Introduction to T-tests (https://www.datacamp.com/tutorial/an-introduction-to-python-t-tests?utm_cid=23340058065&utm_aid=192632748929&utm_campaign=230119_1-ps-dscia~dsa-tofu~python_2-b2c_3-europe_4-prc_5-na_6-na_7-le_8-pdsh-go_9-nb-e_10-na_11-na&utm_loc=1007850-&utm_mtd=-c&utm_kw=&utm_source=google&utm_medium=paid_search&utm_content=ps-dscia~europe-en~dsa~tofu~tutorial~python&gad_source=1&gad_campaignid=23340058065&gbraid=0AAAAADQ9WsFAHLMdsp2EXS7FTS3rwzL2M&gclid=CjwKCAjwo5bXBhAEEiwAkgpgXL_XVQTyDAK5U5FDqEveBlGUD7Kxbu0MjP-U3EsS8QobQLEn0qaE0RoCHIwQAvD_BwE)
+- Introduction to T-tests: https://www.datacamp.com/tutorial/an-introduction-to-python-t-tests
 
 - T-Statistic: https://www.datacamp.com/tutorial/t-statistic
 
@@ -60,3 +60,5 @@ The overall correlation was approximately 0.96, showing a strong positive relati
 - Statistic support: https://online.stat.psu.edu/stat100/Lesson10
 
 - Table result: https://www.geeksforgeeks.org/python/how-to-make-a-table-in-python/
+
+- Lambda funtion: https://www.datacamp.com/tutorial/python-lambda-functions
