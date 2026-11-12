@@ -55,7 +55,7 @@ The overall correlation was approximately 0.96, showing a strong positive relati
 
 - P-Value: https://numiqo.com/tutorial/p-value
 
-- scipy packcage: https://docs.scipy.org/doc/scipy/reference/stats.html
+- scipy packcage: https://docs.scipy.org/doc/scipy-1.18.0/reference/stats.html
 
 - Statistic support: https://online.stat.psu.edu/stat100/Lesson10
 
