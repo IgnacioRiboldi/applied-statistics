@@ -2,9 +2,28 @@
 Repository for Applied Statistics module - ATU
 This project is written in a Jupyter Notebook, using Python Language and some of their packages that are mentioned below.
 
+## How to Clone This Repository
+
+To get a copy of this project on your local computer, follow the following steps:
+
+### Step 1: Open your terminal
+
+Open your terminal on your computer.
+
+### Step 2: Clone the repository
+
+Run the following command:
+
+git clone https://github.com/IgnacioRiboldi/applied-statistics.git
+
+### Step 3: Open the project
+
+The repository is now available on your local computer.
+
+
 ## Packages that have to be installed:
 
-%pip install pandas scikit-learn numpy matplotlib
+%pip install + packeages shared in "requirements.txt" file.
 
 ## Problem 1 Import iris Data Set
 
